@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CBB.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Tb1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Achtung!
+Dauertest aktiv!</Value>
+    </Setting>
+    <Setting Name="Tb2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Caution!
+Endurance test active!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
