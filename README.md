@@ -1,5 +1,5 @@
 # CBB
-Commission Bulletin Board
+Commissioning Bulletin Board
 
 ![Screenshot01](https://semper.space/CBB/CBB_Screenshot_01.png "Screenshot Config")
 ![Screenshot02](https://semper.space/CBB/CBB_Screenshot_02.png "Screenshot Fullscreen")
